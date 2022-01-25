@@ -7,4 +7,6 @@ https://github.com/YutaroOgawa/pytorch_advanced
 
 
 ## Code  
-* [Chapter 3](https://github.com/TNT-PyTorch-Study/Hangyul/blob/main/semantic_segmentation(PSPNet).ipynb)
+* [Chapter 3: Semantic Segmentation(PSPNet)](https://github.com/TNT-PyTorch-Study/Hangyul/blob/main/3_semantic_segmentation(PSPNet).ipynb)
+* [Chapter 4: OpenPose](https://github.com/TNT-PyTorch-Study/Hangyul/blob/main/4_openpose.ipynb)
+* [Chapter 5: GAN(DCGAN, SAGAN)](https://github.com/TNT-PyTorch-Study/Hangyul/blob/main/5_GAN_DCGAN_SAGAN.ipynb)
